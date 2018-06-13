@@ -1,1 +1,31 @@
-hello world
+the result in the left is the param for the right
+$history | grep id
+$ cat backup.sql | mysql -u root -p test mydb
+
+
+System
+listing proccess
+$ps = process running
+
+
+Help
+Show command manual
+
+$man
+#man cd
+
+File and directory
+$pwd
+$cd <directory>
+show file content $cat <filename>
+copy file $cp
+move $mv
+make directory	$mkdir
+remove file $rm
+create file #touch filename
+show the tail file $ tail
+$tail -f
+$nano <namefile> or $vim <namefile> : edit file
+
+
+
